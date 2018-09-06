@@ -1,4 +1,5 @@
 @import url("tipografia/fonts.css");
+
 body {
     padding: 0px;
     margin: 0px;
@@ -16,8 +17,20 @@ body {
     left: 0px;
 }
 
-H2 {
-    color: #565656;
+.jumbotron-text-left{
+    height: 50px;
+    font-family: FjallaOne;
+    font-style: normal;
+    background-color: #ffff;
+}
+
+.w3-container{
+    width:50px;
+}
+
+.w3-light-white{
+    text-align: center;
+
 }
 
 .logo {
@@ -36,6 +49,7 @@ H2 {
 
 .search img {
     width: 100%;
+    cursor:pointer;
 }
 
 .bag {
@@ -46,8 +60,8 @@ H2 {
 
 .bag img {
     width: 100%;
+    cursor:pointer;    
 }
-
 
 .nav {
     width: 90%;
@@ -62,11 +76,12 @@ H2 {
 }
 
 .menu a {
-    color: #ffff;
+    color: #358E81;
 }
 
 .menu :hover {
-    color: #358E81
+    font-style: bold;
+    size: 50px;
 }
 
 .menu li {
@@ -91,12 +106,16 @@ H2 {
 }
 
 .list {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: auto;
     display: flex;
     margin: 15px;
-    width: 100%;
+    width: 50px;
     color: #565656;
+}
+
+.product{
+    text-align: center;
 }
 
 .selector {
@@ -104,8 +123,8 @@ H2 {
     border: 2px;
     border-color: #358E81;
     border-radius: 10px;
-    width: 33.3%;
-    height: 66%;
+    width: 300px;
+    height: 80%;
     margin: 10px;
 }
 
@@ -126,4 +145,26 @@ H2 {
     width: 450px;
     padding: 20px;
     color: #ffff;
+   
+    text-decoration: underline; 
+}
+
+.boton-ver {
+    background-color: #ffff;
+    border:1px;
+    font-size: 18px;
+    text-align: center;
+    width: 450px;
+    padding: 20px;
+    color: #358E81;
+    border-color: #358E81;
+}
+
+footer{
+    background-color: #725247;
+    color: #ffff;
+    text-align: center;
+    padding: 50px;
+    padding-left: 20px;
+    
 }
