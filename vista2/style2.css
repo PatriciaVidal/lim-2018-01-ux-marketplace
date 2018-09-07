@@ -105,6 +105,39 @@ body {
     padding: 15px;
 }
 
+.PhotosDescrip{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 100px;
+    margin:auto;
+    margin-left:200px;
+}
+
+.allphotos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photos{
+    display: inline-block;
+}
+
+.photoXL{
+    float: left;
+}
+
+.Description{
+    display: flex;  
+    padding-left: 150px;
+}
+
+
+.options{
+    padding: 100px;
+}
+
 .list {
     max-width: 1000px;
     margin: auto;
@@ -145,8 +178,7 @@ body {
     width: 450px;
     padding: 20px;
     color: #ffff;
-   
-    text-decoration: underline; 
+    text-decoration: none; 
 }
 
 .boton-ver {
@@ -158,13 +190,17 @@ body {
     padding: 20px;
     color: #358E81;
     border-color: #358E81;
+    display: block;
 }
 
 footer{
     background-color: #725247;
     color: #ffff;
     text-align: center;
-    padding: 50px;
+    padding: 0;
     padding-left: 20px;
-    
+    margin: 0px;
+    height: 150px;
 }
+
+
