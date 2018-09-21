@@ -237,7 +237,7 @@ Link de las vistas de sketch para mobile y web: <br>
 
 Link de las vistas con interacción de prototipo de alta fidelidad: <br>
 [Click aquí para version mobile](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/screen/ff38d2e8-9c41-4984-9343-abe14c6f5f60/iPhone-6-7-8-11?fullscreen)<br>
-[Click aquí para version web](https://xd.adobe.com/view/031a5549-e0c7-4bdc-42fe-5845885afa81-752b/?fullscreen)<br>
+[Click aquí para version web](https://marvelapp.com/6h2b4h1)<br>
 
 * **Testeo de prototipo en alta**
 Este es el link de testeo a usuarios con el prototipo web en alta: <br>
