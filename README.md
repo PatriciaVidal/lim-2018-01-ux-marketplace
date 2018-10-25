@@ -160,7 +160,7 @@ Los principales usuarios de **Le Pastel Bakery** son mujeres millennials (entre 
 Los objetivos del negocio **Le Pastel Bakery** son que las personas que consumen sus productos queden satisfechas con la calidad del producto elegido no solo por el sabor sino también por la presentación. También que los usuarios puedan hacer los pedidos que necesiten y recibirlos en el lugar que se encuentren sin necesidad de que vayan a la tienda físicamente. Además, los usuarios tienen la característica de subir a redes sociales lo que les gusta y así puedan compartir una foto del producto con sus amistades, lo que a su vez aumenta la posibilidad de incrementar ventas con la gente que sigue a estos usuarios al ver las recomendaciones positivas del producto y servicio. 
 
 *  **Cuáles son los objetivos de estos usuarios en relación con el producto**<br>
-Los objetivos de los usuarios son que el precio sea accesible, recibir al tiempo acordado su pedido, que tenga un buen sabor y mantenga esa calidad en cada pedido. 
+Los usuarios desean encontrar con facilidad el producto por categoría y hacer el pedido y pago del producto elegido desde la web.
 
 *  **Cuál será la propuesta de valor del sitio que vas a crear**<br>
 La propuesta de valor que proponemos es fidelizar a los usuarios frecuentes invitándoles a que personalicen los pedidos que realizan. Los usuarios registrados pueden elegir una frase predeterminada y compartir el producto como un regalo más completo a quien desean enviar para sorprender con ese detalle. Otra propuesta de valor que ofrece **Le Pastel Bakery** es el de contestar pronto los mensajes manteniendo asi una comunicación fluida creando una relación de confianza.
@@ -193,11 +193,11 @@ Ser una plataforma amigable, sencilla sin muchos pasos y que brinde la informaci
 Utilizando un vocabulario no formal, fácil de entender.
 
 + **¿Cómo hacer que los clientes compren de manera más frecuente?**<br>
-Manteniendo la calidad de los insumos, la presentación y la entrega del mismo. 
+Teniendo un orden en la página web para que les sea fácil encontrar el producto que buscan. 
 Fidelidad, creando puntos de compra. Ofreciendo descuentos de temporada que inviten a consumir los productos con las frutas de la estación. Promoviendo una cartilla de descuento.
 
 + **¿Cómo incluir el contacto directo entre el cliente y el comprador dentro del proceso de compra?**<br>
-Para tener una respuesta pronta y la comunicación sea fluida, proponemos  linkear whatsapp en la versión de celular y web.
+Para tener una respuesta pronta y la comunicación sea fluida, proponemos linkear whatsapp en la versión de celular y web.
 
 + **¿Cómo permanecer más tiempo en la mente de los consumidores?**<br>
 Linkeando las actualizaciones de las imágenes a las redes sociales.
